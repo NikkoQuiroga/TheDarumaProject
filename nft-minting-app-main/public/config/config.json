@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcAEdF2c61027342e07EA577C4a4040ed7eB29c4b",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xcaedf2c61027342e07ea577c4a4040ed7eb29c4b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Daruma Project",
+  "SYMBOL": "TDPNFT",
+  "MAX_SUPPLY": 501,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-daruma-project",
+  "SHOW_BACKGROUND": true
+}
